@@ -1,4 +1,4 @@
-Package: dbh_sample
+Package: dbhSample
 Type: Package
 Title: Dependent-adjusted Benjamini-Hochberg and step-up procedures
 Version: 0.1.0
